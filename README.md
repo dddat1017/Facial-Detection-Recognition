@@ -5,6 +5,9 @@
 - My future goal moving on with Facial Detection & Recognition is to definitely experiment and train with deep learning models. Getting the best predictions is certainly something very viable to aim for. 
 - I hope you enjoy this implementation of a Facial Detection & Recognition system that I was able to come up with. Please contact me if you have any suggestions or comments!
 
+### NOTE
+- The "Barack Obama" folder is for the first training, as the system needs images in order to "train" on. So, the "Barack Obama" foler is just a starting set of images. If you wish, you can always delete the folder and add a folder of existing images of your own preference.
+
 ### References:
 - https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html
 - https://www.superdatascience.com/opencv-face-recognition/
