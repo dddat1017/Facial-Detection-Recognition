@@ -13,3 +13,5 @@
 - https://www.superdatascience.com/opencv-face-recognition/
 - https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
 - http://www.scholarpedia.org/article/Local_Binary_Patterns
+
+<img src="https://user-images.githubusercontent.com/40379856/45924143-11ad7480-bead-11e8-9103-04c663380d71.gif" width="90%"></img> 
